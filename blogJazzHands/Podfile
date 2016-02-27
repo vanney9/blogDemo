@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+
+pod 'JazzHands', '2.0.8'
+pod 'Masonry'
